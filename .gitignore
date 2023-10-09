@@ -2,3 +2,5 @@
 *.out
 *.log
 *.synctex.gz
+*.pdf
+.vscode
