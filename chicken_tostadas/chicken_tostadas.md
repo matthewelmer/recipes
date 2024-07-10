@@ -3,7 +3,7 @@ Chicken Tostadas
 
 Notes
 -----
-Makes 8 2-tostada servings. If you don't have a pressure cooker, figure out some other method of making the shredded chicken.
+Makes 8 2-tostada servings. If you don't have a pressure cooker, try baking the chicken in the oven at 300F.
 
 Ingredients
 -----------
@@ -11,25 +11,27 @@ Ingredients
 - 16 Tostadas
 - 2 16-oz. cans of refried beans
 - 2.5 lbs. boneless skinless chicken breast (cooked and shredded)
-    - 1 1/2 tsp. salt
-    - 1 cup chicken stock (boullion broth is fine)
-    - 1/4 tsp. chipotle chile powder
-    - 1/2 tsp. ancho chile powder
+    - 1 cup chicken stock
+    - 1 tsp. salt
+    - 1/2 tsp garlic powder
+    - 1/2 tsp onion powder
+    - 1/2 tsp. Ancho chili powder
+    - 1/4 tsp. Chipotle chili powder
     - Freshly-cracked black pepper (to taste)
 
 ### Optional Fixins'
-- 16 oz. sour cream (for serving)
-- 4 Large avocados (sliced, for serving)
-- 4 fresh limes (sliced, for serving)
-- Lettuce (shredded, for topping)
+- 16 oz. sour cream
+- 4 Large avocados, sliced
+- 4 fresh limes, sliced
+- Shredded lettuce
 - 8 oz. Monterey Jack or Cojita Cheese
-- Hot sauce (for serving)
+- Hot sauce
 
 Instructions
 ------------
 ### Cooking and Shredding the Chicken
 1. Place the chicken in the pressure cooker, and pour the chicken stock over it.
-2. Pressure cook for 10-12 minutes, until each reaches an internal temperature of 165$degree$F.
+2. Pressure-cook for 10-12 minutes, until each reaches an internal temperature of 165F.
 3. Shred on a cutting board, then transfer to a bowl before mixing in all seasoning well.
 
 ### Assembling the Tostadas:
